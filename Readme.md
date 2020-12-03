@@ -1,2 +1,2 @@
-1) Install autohotkeys from https://www.autohotkey.com/
-2) Download the file and replace the file location in the code. 
+Tired of manually fetching the daily sales data over your telnet server ? Automate your autoHotkeys with 
+Python.
